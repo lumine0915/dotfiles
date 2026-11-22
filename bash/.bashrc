@@ -13,6 +13,8 @@ alias l='ls -CF'
 alias ..='cd ..'
 alias ...='cd ../..'
 alias grep='grep --color=auto'
+alias startapi='am start com.termux.api/com.termux.api.activities.TermuxAPIMainActivity'
+alias cdd='cd ~/storage/downloads/'
 
 # Wake lock manual control
 alias wlock='termux-wake-lock'
